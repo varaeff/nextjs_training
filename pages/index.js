@@ -5,7 +5,7 @@ import { MainLayout } from "@/components/MailLayout";
 export default function Index() {
   return (
     <MainLayout title="Home page">
-      <h1>Hello, Huilo!</h1>
+      <h1>Hello!</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
