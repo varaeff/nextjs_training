@@ -9,7 +9,7 @@ export default function About() {
 
   return (
     <MainLayout title="About">
-      <h1>About this shit</h1>{" "}
+      <h1>About this page</h1>{" "}
       <p>
         <button onClick={linkClickHandler}>Mainpage</button>
         <button onClick={() => Router.push("/posts")}>Posts</button>
